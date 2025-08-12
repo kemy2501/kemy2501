@@ -4,7 +4,6 @@ Perfil Profissional - Kemilly Regina Riedo Calado
 * **Nome:** Kemilly Regina Riedo Calado
 * **Idade:** 16 anos
 * **Cidade:** Presidente Prudente - SP
-* **GitHub:**
 
 ## ​🗣️​Idiomas
 * **Português:** Nativo
