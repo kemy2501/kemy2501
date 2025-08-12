@@ -8,7 +8,6 @@ Perfil Profissional - Kemilly Regina Riedo Calado
 ## ​🗣️​Idiomas
 * **Português:** Nativo
 * **Inglês:** Básico
-* **Espanhol:** Básico
 
 ## 🎯​Objetivo Profissional
 * Atuar na área de Desenvolvimento de Sistemas, aplicando conhecimentos técnicos para criar soluções eficientes e escaláveis.
