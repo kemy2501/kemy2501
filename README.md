@@ -1,16 +1,30 @@
-## Hi there 👋
+# Perfil Profissonal
+Perfil Profissional - Kemilly Regina Riedo Calado
+## Dados Pessoais 
+* **Nome:** Kemilly Regina Riedo Calado
+* **Idade:** 16 anos
+* **Cidade:** Presidente Prudente - SP
+* **GitHub:**
 
-<!--
-**kemy2501/kemy2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Idiomas
+* **Português:** Nativo
+* **Inglês:** Básico
+* **Espanhol:** Básico
 
-Here are some ideas to get you started:
+## Competências Técnicas
+* **Front-end:**  HTML e CSS
+* **Back-end:** Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qualidades
+* Criativa
+* Determinada
+* Responsável 
+
+## Formação Acadêmica 
+* Curso de Desenvolvimento de Sistemas - Senai Paschoal Crepaldi (2025 - 2026)
+
+ ## Metas a curto prazo
+ * Concluir o ensino médio - conclusão(2026)
+* Obter a certificação do AZ-900
+
+
